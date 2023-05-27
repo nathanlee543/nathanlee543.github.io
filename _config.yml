@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nathan Lee"
+title                    : "Nathan Lee, PhD"
 title_separator          : "-"
-name                     : &name "Nathan Lee, Ph.D."
+name                     : &name "Nathan Lee, PhD"
 description              : &description "postdoc in Schwarz Lab"
 url                      : https://nathanlee543.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nathan Lee, Ph.D."
   avatar           : "profile.png"
-  bio              : "postdoctoral researcher at Berlin Institute for the Foundations of Learning and Data (BIFOLD) @ TU Berlin & Berlin Institute for Medical Systems Biology of the Max Delbrück Center"
+  bio              : "postdoc in Schwarz Lab \ Berlin Institute for the Foundations of Learning and Data (BIFOLD) @ TU Berlin \ Berlin Institute for Medical Systems Biology of the Max Delbrück Center"
   location         : "Berlin, Germany"
-  employer         :
+  employer         : "test employer"
   pubmed           : 
   googlescholar    : 
   email            :
