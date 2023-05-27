@@ -81,10 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Nathan Lee, Ph.D."
-  avatar           : "profile.png"
-  bio              : "postdoc in Schwarz Lab \ Berlin Institute for the Foundations of Learning and Data (BIFOLD) @ TU Berlin \ Berlin Institute for Medical Systems Biology of the Max Delbrück Center"
+  avatar           : "profile.JPG"
+  bio              : "incoming postdoctoral researcher in Roland Schwarz Lab"
   location         : "Berlin, Germany"
-  employer         : "test employer"
+  employer         : "Berlin Institute for the Foundations of Learning and Data (BIFOLD) @ Technical University of Berlin"
+  employer         : "Berlin Institute for Medical Systems Biology of the Max Delbrück Center (MDC-BIMSB)"
   pubmed           : 
   googlescholar    : 
   email            :
