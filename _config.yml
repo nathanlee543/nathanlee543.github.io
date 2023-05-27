@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nathan Lee, Ph.D."
   avatar           : "profile.JPG"
-  bio              : "incoming postdoc in Roland Schwarz Lab"
-  location         : "Berlin, Germany"
-  employer         : "Berlin Institute for the Foundations <br/> of Learning and Data (BIFOLD) <br/> @ Technical University of Berlin & <br/> Berlin Institute for Medical Systems \n Biology of the Max Delbrück <br/> Center (MDC-BIMSB)"
+  bio              : "postdoc in Roland Schwarz Lab"
+  location         : 
+  employer         : "Berlin Institute for the Foundations <br/> of Learning and Data (BIFOLD) <br/> @ Technical University of Berlin & <br/> Berlin Institute for Medical <br/> Systems Biology of the Max Delbrück <br/> Center"
   pubmed           : 
   googlescholar    : 
   email            :
