@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "About"
 excerpt:
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About 
 I am (soon to be) a postdoctoral researcher in [Roland Schwarz's group](https://iccb-cologne.org/groups/schwarzlab/profile) at the Institute for Computational Cancer Biology at the University of Cologne. I am an applied mathematician by training and use computational and mathematical methods to investigate cancer evolution. My research interests include cancer evolution, stochastic processes, and simulations of carcinogenesis. 
 
 # Education
