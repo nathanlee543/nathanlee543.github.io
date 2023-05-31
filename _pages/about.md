@@ -12,7 +12,9 @@ I am (soon to be) a postdoctoral researcher in [Roland Schwarz's group](https://
 
 # Education
 PhD in Applied Mathematics, University of Washington, 2022, *advisor*: Ivana Bozic.
+
 MS in Applied Mathematics, University of Washington, 2018
+
 BS in Applied Mathematics and Statistics & Molecular and Cellular Biology, Johns Hopkins University, 2016
 
 # News highlights
