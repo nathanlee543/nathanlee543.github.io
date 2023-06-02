@@ -21,7 +21,7 @@ author_profile: true
 
 <ol start="4">
   <li>Ultra-deep mutational landscape in chronic lymphocytic leukemia uncovers dynamics of resistance to targeted therapies
-  <br>DW Woolston, <b>ND Lee</b>, M Shadman, E Latorre-Esteves, XR Tee, J Fredrickson, BF Kohrn, C Ujjani, A Eckel, B Till, M Fang, J Radich, I Bozic, RA Risques, CS Yeung.
+  <br>DW Woolston*, <b>ND Lee</b>*, M Shadman*, E Latorre-Esteves, XR Tee, J Fredrickson, BF Kohrn, C Ujjani, A Eckel, B Till, M Fang, J Radich, I Bozic, RA Risques, CS Yeung.
   <br><i>Under review</i>.
   </li>
 </ol>
