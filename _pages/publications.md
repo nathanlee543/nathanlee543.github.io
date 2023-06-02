@@ -32,20 +32,15 @@ author_profile: true
   <br> <b>ND Lee</b>, K Kaveh, I Bozic. 
   <br>Seminars in Cancer Biology, 2023.
   </li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li><a href="https://doi.org/10.1371/journal.pcbi.1010677">Inferring parameters of cancer evolution in chronic lymphocytic leukemia</a>
+  <br> <b>ND Lee</b>, I Bozic. 
+  <br>PLOS Computational Biology, 2022.
+  </li>
+  <li><a href="https://doi.org/10.1016/j.semcancer.2023.04.002">The <i>MET</i> Gene Is a Common Integration Target in Avian Leukosis Virus Subgroup J-Induced Chicken Hemangiomas</a>
+  <br> J Justice IV, S Malhotra, M Ruano, Y Li, G Zavala, <b>N Lee</b>, R Morgan, K Beemon.
+  <br>Journal of Virology 2015.
+  </li>
 </ol>
 
-
-
-3. [Clonal interactions in cancer: integrating quantitative models with experimental and clinical data](https://doi.org/10.1016/j.semcancer.2023.04.002)
-   **ND Lee**, K Kaveh, I Bozic. 
-   Seminars in Cancer Biology, 2023.
-
-2. [Inferring parameters of cancer evolution in chronic lymphocytic leukemia](https://doi.org/10.1371/journal.pcbi.1010677)
-   **ND Lee**, I Bozic. 
-   PLOS Computational Biology, 2022.
-
-1. [The *MET* Gene Is a Common Integration Target in Avian Leukosis Virus Subgroup J-Induced Chicken Hemangiomas](https://doi.org/10.1128/jvi.03225-14)
-   J Justice IV, S Malhotra, M Ruano, Y Li, G Zavala, **N Lee**, R Morgan, K Beemon.
-   Journal of Virology 2015.
+   
+   
