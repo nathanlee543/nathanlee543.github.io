@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in [Roland Schwarz's group](https://iccb-cologne.org/groups/schwarzlab/profile) at the Institute for Computational Cancer Biology at the University of Cologne. I am an applied mathematician by training and use computational and mathematical methods to investigate cancer evolution. My research interests include cancer evolution, stochastic processes, and simulations of carcinogenesis. 
+I am a postdoctoral researcher in [Roland Schwarz's group](https://iccb-cologne.org/groups/schwarzlab/profile) at the Institute for Computational Cancer Biology at the University of Cologne. I am an applied mathematician by training and use computational and mathematical methods to investigate cancer evolution. My research interests include cancer evolution, stochastic processes, and simulations of carcinogenesis.
 
 # Education
 * PhD in Applied Mathematics, University of Washington, 2022, *advisor*: Ivana Bozic.
