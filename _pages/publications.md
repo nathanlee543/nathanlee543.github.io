@@ -21,7 +21,7 @@ author_profile: true
 
 ## Published
 <ol reversed>
-  <li><a href="https://doi.org/10.3324%2Fhaematol.2023.283372">Ultra-deep mutational landscape in chronic lymphocytic leukemia uncovers dynamics of resistance to targeted therapies
+  <li><a href="https://doi.org/10.3324%2Fhaematol.2023.283372">Ultra-deep mutational landscape in chronic lymphocytic leukemia uncovers dynamics of resistance to targeted therapies</a>
   <br>DW Woolston*, <b>ND Lee</b>*, M Shadman*, E Latorre-Esteves, XR Tee, J Fredrickson, BF Kohrn, C Ujjani, A Eckel, B Till, M Fang, J Radich, I Bozic, RA Risques, CS Yeung.
   <br>Haematologica, 2024.
   </li>
